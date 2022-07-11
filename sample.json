@@ -1,0 +1,266 @@
+{
+        "status": "ok",
+        "totalResults": 37,
+        "articles": [
+                {
+                        "source": {
+                                "id": "reuters",
+                                "name": "Reuters"
+                        },
+                        "author": null,
+                        "title": "Shares slide ahead of U.S. inflation data, earnings hurdles - Reuters.com",
+                        "description": "Shares slid on Monday as investors braced for a U.S. inflation report that could force another super-sized hike in interest rates, and the start of an earnings season in which profits will be under pressure.",
+                        "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-pix-2022-07-11/",
+                        "urlToImage": "https://www.reuters.com/resizer/x8K0PQaMBcvCDMlPPBADa14N6N8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BCLVP57DJVLZ7L6IV4QTVXAB3E.jpg",
+                        "publishedAt": "2022-07-11T07:43:00Z",
+                        "content": "SYDNEY/LONDON, July 11 (Reuters) - Shares slid on Monday as investors braced for a U.S. inflation report that could force another super-sized hike in interest rates, and the start of an earnings seas… [+3431 chars]"
+                },
+                {
+                        "source": {
+                                "id": "reuters",
+                                "name": "Reuters"
+                        },
+                        "author": null,
+                        "title": "Ex-Trump aide Steve Bannon offers to testify in U.S. probe of Jan. 6 riot - Reuters.com",
+                        "description": "Donald Trump's former close adviser Steve Bannon has told the congressional panel investigating the Jan. 6, 2021, attack on the U.S. Capitol that he is ready to testify, a change of heart days before he is due to be tried for contempt of Congress.",
+                        "url": "https://www.reuters.com/world/us/ex-trump-adviser-bannon-offers-testify-us-panel-probe-jan-6-riot-2022-07-10/",
+                        "urlToImage": "https://www.reuters.com/resizer/A7hmviChYCATbIv_UK8Mwng5Ww4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XSEJ6ZP7GZNBBKNLWUZSB5DSXI.jpg",
+                        "publishedAt": "2022-07-11T06:40:00Z",
+                        "content": "WASHINGTON, July 10 (Reuters) - Donald Trump's former close adviser Steve Bannon has told the congressional panel investigating the Jan. 6, 2021, attack on the U.S. Capitol that he is ready to testif… [+2252 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "The Guardian"
+                        },
+                        "author": "Hugo Lowell",
+                        "title": "House January 6 committee to focus on Trump’s tweet at extremist group hearing - The Guardian US",
+                        "description": "Former president’s notorious ‘Be there, will be wild!’ tweet was catalyst for violent protests, congress members will argue",
+                        "url": "https://amp.theguardian.com/us-news/2022/jul/11/house-january-6-committee-to-focus-on-trumps-tweet-at-extremist-group-hearing",
+                        "urlToImage": "https://i.guim.co.uk/img/media/c7fff38fb2cc011c15a7a5f9375fc4a0f3ddd411/0_455_5568_3341/master/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89743ebf84461b85d8d7f4df62e18a89",
+                        "publishedAt": "2022-07-11T06:32:00Z",
+                        "content": "The House January 6 select committee is expected to make the case at its seventh hearing Tuesday that Donald Trump gave the signal to the extremist groups that stormed the Capitol to target and obstr… [+5220 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "MLB.com"
+                        },
+                        "author": "Ethan Sands",
+                        "title": "Five Braves named 2022 NL All-Stars - MLB.com",
+                        "description": "Ronald Acuña Jr. will have company at Dodger Stadium for the 2022 All-Star Game. The 24-year-old will be joined by Dansby Swanson﻿, William Contreras, Travis d’Arnaud and Max Fried, all of whom will make their first All-Star appearances. The five All-Star sel…",
+                        "url": "https://www.mlb.com/news/five-braves-named-2022-nl-all-stars",
+                        "urlToImage": "https://img.mlbstatic.com/mlb-images/image/private/t_2x1/t_w1536/mlb/v2sscqigz6b9vxbe1k7a.jpg",
+                        "publishedAt": "2022-07-11T05:40:24Z",
+                        "content": "Ronald Acuña Jr. will have company at Dodger Stadium for the 2022 All-Star Game. The 24-year-old will be joined by Dansby Swanson, William Contreras, Travis dArnaud and Max Fried, all of whom will ma… [+4220 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "NBCSports.com"
+                        },
+                        "author": null,
+                        "title": "Wiseman, Warriors soak up long-awaited summer league debut - NBC Sports Bay Area",
+                        "description": "James Wiseman was all smiles after showing off his potential while completing his comeback Sunday night in Las Vegas.",
+                        "url": "https://www.nbcsports.com/bayarea/warriors/james-wiseman-warriors-soak-long-awaited-nba-summer-league-debut",
+                        "urlToImage": "https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/James-Wiseman-Getty_6.jpg",
+                        "publishedAt": "2022-07-11T05:18:36Z",
+                        "content": "LAS VEGAS -- One way or the other, Warriors coach Jama Mahlalela was making sure a dunk was being thrown down Sunday night to open their Las Vegas Summer League game at Thomas &amp; Mack Center again… [+5192 chars]"
+                },
+                {
+                        "source": {
+                                "id": "the-wall-street-journal",
+                                "name": "The Wall Street Journal"
+                        },
+                        "author": "Cara Lombardo and Robert Wall",
+                        "title": "Twitter Didn’t Seek a Sale. Now Elon Musk Doesn’t Want to Buy. Cue Strange Legal Drama. - The Wall Street Journal",
+                        "description": "In trying to terminate his $44 billion takeover deal, Tesla boss sets stage for what could become one of the oddest courtroom battles in corporate-takeover history.",
+                        "url": "https://www.wsj.com/articles/elon-musk-twitter-strange-legal-fight-11657488572",
+                        "urlToImage": "https://images.wsj.net/im-580612/social",
+                        "publishedAt": "2022-07-11T04:37:00Z",
+                        "content": "Elon Musks showdown with Twitter has set the stage for what could become one of the most unusual courtroom battles in corporate-takeover historya spurned acquisition target that never sought to be bo… [+330 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "MarketWatch"
+                        },
+                        "author": null,
+                        "title": "China Tech Stocks Fall After Beijing Fines Alibaba, Tencent - MarketWatch",
+                        "description": "By Yifan Wang Shares of Chinese tech giants fell in Hong Kong on Monday, after Beijing fined some of the country's largest internet companies for failing to...",
+                        "url": "https://www.marketwatch.com/story/china-tech-stocks-fall-after-beijing-fines-alibaba-tencent-271657511773",
+                        "urlToImage": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+                        "publishedAt": "2022-07-11T03:56:00Z",
+                        "content": "Shares of Chinese tech giants fell in Hong Kong on Monday, after Beijing fined some of the country's largest internet companies for failing to make proper antitrust declarations on previous deals.\r\nA… [+262 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "hoopsrumors.com"
+                        },
+                        "author": null,
+                        "title": "Pacific Notes: Wall, DiVincenzo, Lakers, Saric - hoopsrumors.com",
+                        "description": "In his first public comments since joining the Clippers as a free agent, John Wall said he's looking forward to &hellip;",
+                        "url": "https://www.hoopsrumors.com/2022/07/pacific-notes-wall-divincenzo-lakers-saric.html",
+                        "urlToImage": "https://cdn.hoopsrumors.com/files/2022/07/John-Wall-900x732.jpg",
+                        "publishedAt": "2022-07-11T02:56:00Z",
+                        "content": "In his first public comments since joining the Clippers as a free agent, John Wall said he’s looking forward to playing on such a talented roster, as Ohm Youngmisuk of ESPN relays.\r\n“I don’t have to … [+3278 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "KPRC Click2Houston"
+                        },
+                        "author": "Moriah Ballard",
+                        "title": "Power outages reported across the Houston area following excessive heat warning - KPRC Click2Houston",
+                        "description": "Thousands of residents across the Houston area are experiencing power outages as temperatures remained in the 100s Sunday night.",
+                        "url": "https://www.click2houston.com/news/local/2022/07/11/power-outages-reported-across-the-houston-area-as-tempertaures-soar-into-the-triple-digits/",
+                        "urlToImage": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SJUOF36YFJDYFJ3GTBU34PMZOY.png?_a=ATAK9d60",
+                        "publishedAt": "2022-07-11T02:37:52Z",
+                        "content": "HOUSTON Thousands of residents across the Houston area are experiencing power outages as temperatures remained in the 100s Sunday night.\r\nAccording to CenterPoint Energy, near 31,859 customers were w… [+424 chars]"
+                },
+                {
+                        "source": {
+                                "id": "the-washington-post",
+                                "name": "The Washington Post"
+                        },
+                        "author": "Peter Marks",
+                        "title": "Review | With a perfect cast, Broadway has an 'Into the Woods' for the ages - The Washington Post",
+                        "description": "Stephen Sondheim and James Lapine’s urbane musical twist on fairy-tale endings gets a priceless Broadway revival.",
+                        "url": "https://www.washingtonpost.com/theater-dance/2022/07/10/into-the-woods-bareilles-sondheim/",
+                        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FW66N7X724I6ZB7EKW7AOESBMQ.jpg&w=1440",
+                        "publishedAt": "2022-07-11T02:08:04Z",
+                        "content": "Comment on this story\r\nNEW YORK The scintillating new revival of Into the Woods is rendered so harmoniously and meticulously, youll swear you even hear the punctuation marks in the lyrics. Here at th… [+5858 chars]"
+                },
+                {
+                        "source": {
+                                "id": "cnn",
+                                "name": "CNN"
+                        },
+                        "author": "Rosa Flores",
+                        "title": "Investigative report into the Uvalde elementary school shooting could be released within 10 days - CNN",
+                        "description": "The Texas House Investigative Committee's preliminary report into the massacre at Robb Elementary School in Uvalde could be released within the next 10 days, and the chairman of the committee is pushing for the report to include the critical 77-minutes of \"ha…",
+                        "url": "https://www.cnn.com/2022/07/10/us/investigative-report-uvalde-school-shooting/index.html",
+                        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220525004916-texas-school-shooting-sign-0524.jpg?c=16x9&q=w_800,c_fill",
+                        "publishedAt": "2022-07-11T02:08:00Z",
+                        "content": "The Texas House Investigative Committees preliminary report into the massacre at Robb Elementary School in Uvalde could be released within the next 10 days, and the chairman of the committee is pushi… [+3133 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "YouTube"
+                        },
+                        "author": null,
+                        "title": "Wildfire in Yosemite doubles in size, sends smoke into Central Valley - KPIX CBS SF Bay Area",
+                        "description": "Meteorologist Darren Peck takes a closer look at the Washburn Fire threatening giant sequoias in Yosemite and air quality in Northern California. (7-10-22)",
+                        "url": "https://www.youtube.com/watch?v=8YzxGPf2xYQ",
+                        "urlToImage": "https://i.ytimg.com/vi/8YzxGPf2xYQ/hqdefault.jpg",
+                        "publishedAt": "2022-07-11T02:06:08Z",
+                        "content": null
+                },
+                {
+                        "source": {
+                                "id": "independent",
+                                "name": "Independent"
+                        },
+                        "author": "Bevan Hurley",
+                        "title": "Pete Buttigieg defends husband and protesters who forced Brett Kavanaugh to flee steak house - The Independent",
+                        "description": "Public officials should not be immune from criticism and peaceful protests, Transport Secretary says",
+                        "url": "https://www.independent.co.uk/news/world/americas/us-politics/pete-buttigieg-kavanaugh-fox-news-protest-b2120084.html",
+                        "urlToImage": "https://static.independent.co.uk/2022/06/30/10/Buttigieg_Roads_Racial_Equity_22792.jpg?quality=75&width=1200&auto=webp",
+                        "publishedAt": "2022-07-11T01:48:17Z",
+                        "content": "Pete Buttigieg defended his husband over a tweet poking fun at Justice Brett Kavanaughs meal being disrupted by anti-abortion protesters in Washington DC this week.\r\nThe Transport Secretary was asked… [+2543 chars]"
+                },
+                {
+                        "source": {
+                                "id": "associated-press",
+                                "name": "Associated Press"
+                        },
+                        "author": "Mari Yamaguchi",
+                        "title": "Japan ruling party heads to victory in wake of Abe's death - The Associated Press - en Español",
+                        "description": "TOKYO (AP) — Japan's governing party and its coalition partner scored a major victory in a parliamentary election Sunday imbued with meaning after the assassination of former Prime Minister Shinzo Abe  amid uncertainty about how his loss may affect party unit…",
+                        "url": "https://apnews.com/article/shinzo-abe-japan-tokyo-elections-assassinations-1631cccdc3c1d8997cd9d17544e68d66",
+                        "urlToImage": "https://storage.googleapis.com/afs-prod/media/d95bc353088746339e2c3334d94e6ec2/3000.jpeg",
+                        "publishedAt": "2022-07-11T01:18:45Z",
+                        "content": "TOKYO (AP) Japans governing party and its coalition partner scored a major victory in a parliamentary election Sunday imbued with meaning after the assassination of former Prime Minister Shinzo Abe a… [+5677 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "The Guardian"
+                        },
+                        "author": "Samantha Lock, Richard Luscombe",
+                        "title": "Russia-Ukraine war update: what we know on day 138 of the invasion - The Guardian",
+                        "description": "At least 15 people dead after Russian missile attack on eastern Ukrainian town; residents in two southern regions urged to evacuate as Ukraine prepares to launch counteroffensive",
+                        "url": "https://amp.theguardian.com/world/2022/jul/11/russia-ukraine-war-update-what-we-know-on-day-138-of-the-invasion",
+                        "urlToImage": null,
+                        "publishedAt": "2022-07-11T00:59:00Z",
+                        "content": "The number of Ukrainian children enrolled in Polands schools is expected to double to at least 400,000 for the coming school year, the countrys education department has said. A report in European Pra… [+208 chars]"
+                },
+                {
+                        "source": {
+                                "id": "cbs-news",
+                                "name": "CBS News"
+                        },
+                        "author": "William Harwood",
+                        "title": "Astronomers eagerly await first images from the James Webb Space Telescope - CBS News",
+                        "description": "After six months of tests and checkout, the $10 billion James Webb Space Telescope is finally ready for center stage.",
+                        "url": "https://www.cbsnews.com/news/james-webb-space-telescope-first-images-expected/",
+                        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/07/10/28c0641a-ba04-40a6-94e3-1860f57b9dce/thumbnail/1200x630/1fcb698c003c6efb256ca3ed154fa1d1/artist-impression.jpg",
+                        "publishedAt": "2022-07-11T00:56:00Z",
+                        "content": "President Biden will unveil the first color image from the James Webb Space Telescope at the White House on Monday, heralding the end of tests and checkout and the beginning of science operations by … [+7930 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "The Cut"
+                        },
+                        "author": "Claire Comstock-Gay",
+                        "title": "Weekly Horoscopes for the Week of July 11 by the Cut - The Cut",
+                        "description": "Full moons are always intense. This week’s is also in Capricorn, a water sign, so you’re going to want to strap in.",
+                        "url": "http://www.thecut.com/2022/07/weekly-horoscopes-for-the-week-of-july-11-by-the-cut.html",
+                        "urlToImage": "https://pyxis.nymag.com/v1/imgs/3db/4be/880616dec8b9104f7c40601fe9976fd381-cancer-season-2.1x.rsocial.w1200.jpg",
+                        "publishedAt": "2022-07-11T00:30:05Z",
+                        "content": "On Wednesday, a full moon in serious Capricorn marks the culmination of the work youve been doing for a long time now. Maybe a major creative project is nearing completion, maybe personal growth is f… [+7369 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "pgatour.com"
+                        },
+                        "author": "Sean Martin, PGATOUR.COM",
+                        "title": "Kurt Kitayama among group advancing to St. Andrews via Open Qualifying Series - PGA TOUR",
+                        "description": "NORTH BERWICK, Scotland – Kurt Kitayama’s consolation prize for a close call at the Genesis Scottish Open is a tee time at St. Andrews for The 150th Open.",
+                        "url": "https://www.pgatour.com/news/2022/07/10/kurt-kitayama-jamie-donaldson-brandon-wu-qualify-the-the-open-st-andrews-open-qualifying-series.html",
+                        "urlToImage": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,f_auto,h_538,q_auto,w_960/v1/pgatour/editorial/2022/07/10/kurtkitayama-847-lukewalkerranda.jpg",
+                        "publishedAt": "2022-07-10T22:32:36Z",
+                        "content": "NORTH BERWICK, Scotland Kurt Kitayamas consolation prize for a close call at the Genesis Scottish Open is a tee time at St. Andrews for The 150th Open.\r\nAs the runner-up at Renaissance Club, Kitayama… [+2189 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "Page Six"
+                        },
+                        "author": "Emily Selleck",
+                        "title": "Ant Anstead shares cuddly pic with ‘pure class’ girlfriend Renée Zellweger - Page Six",
+                        "description": "The couple, who have been dating since 2021, looked all loved up while posing for a photo together and cuddling up close on a pair of deck chairs.",
+                        "url": "https://pagesix.com/2022/07/10/ant-anstead-cuddles-girlfriend-renee-zellweger-on-the-beach-pure-class/",
+                        "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/07/Anstead_Zellweger_beach2.jpg?quality=75&strip=all&w=1200",
+                        "publishedAt": "2022-07-10T22:03:00Z",
+                        "content": "Ant Anstead described girlfriend Renée Zellweger as pure class in an adorable new Instagram post. \r\n“This lady Pure. Class. Ren x,” he captioned his post on Saturday, which featured the two looking a… [+1935 chars]"
+                },
+                {
+                        "source": {
+                                "id": null,
+                                "name": "WKRC TV Cincinnati"
+                        },
+                        "author": "MOGOMOTSI MAGOME Associated Press",
+                        "title": "South Africa police say 15 killed in bar shooting in Soweto - WKRC TV Cincinnati",
+                        "description": "A mass shooting at a tavern in has killed 15 people and left others in critical condition, according to police.",
+                        "url": "https://local12.com/news/nation-world/south-africa-police-say-15-killed-in-bar-shooting-in-soweto-07-10-2022-212803077",
+                        "urlToImage": "https://local12.com/resources/media/1ecb8c76-4dcb-4097-8fcd-da9f5e5b1227-large16x9_AP22191379002827.jpg?1657488552268",
+                        "publishedAt": "2022-07-10T21:34:49Z",
+                        "content": null
+                }
+        ]
+}
